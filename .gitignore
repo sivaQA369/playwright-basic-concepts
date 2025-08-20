@@ -1,7 +1,13 @@
 
-# Playwright
+# Node modules
 node_modules/
+
+# Playwright artifacts
 /test-results/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+# Allure Reports
+allure-results/
+allure-report/
